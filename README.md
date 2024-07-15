@@ -24,11 +24,8 @@ O <strong>plann.er</strong> é um planejador de roteiros de viagens. Nele, podem
 <h3> :movie_camera: Demonstração </h3>
 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=gU5kBX2Cp6Y">
-    <img src="https://img.youtube.com/vi/gU5kBX2Cp6Y/0.jpg" alt="Assista no YouTube">
-  </a>
-</div>
+https://github.com/user-attachments/assets/856cda76-3340-4f8e-b6f4-ed3386aed121
+
 
 
 <h3>  📄 Conclusão</h3>
