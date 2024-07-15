@@ -15,3 +15,7 @@ O <strong>plann.er</strong> é um planejador de roteiros de viagens. Nele, podem
   <li> Vite </li>
   <li> Figma </li>
 </ul>
+
+<h3> :movie_camera: Demonstração </h3>
+
+
