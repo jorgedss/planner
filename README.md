@@ -1,5 +1,4 @@
 
-
 <div align='center'> <img src='.github/preview/Logo.png' ></img>  </div>
 <p align='center'> Projeto desenvolvido ao longo da Next Level Week Journey </p>
 
@@ -15,11 +14,11 @@ O <strong>plann.er</strong> é um planejador de roteiros de viagens. Nele, podem
 
 <h3> :wrench: Ferramentas utilizadas</h3>
 <ul>
-  <li style="background-color: lightblue;"> React</li>
-  <li> Tailwind CSS</li>
-  <li> Typescript</li>
-  <li> Vite </li>
-  <li> Figma </li>
+  <li> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" /> </li>
+  <li> <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'></li>
+  <li> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/></li>
+  <li> <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/> </li>
+  <li> <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/> </li>
 </ul>
 
 <h3> :movie_camera: Demonstração </h3>
@@ -32,11 +31,15 @@ O <strong>plann.er</strong> é um planejador de roteiros de viagens. Nele, podem
 </div>
 
 
-<h3> :memo: Conclusão</h3>
+<h3>  📄 Conclusão</h3>
 
 <div align='justify'> 
 Este projeto teve grande significado para meu aprendizado. Como estou estudando React desde antes do evento, já tinha visto alguns conceitos, o que tornou a experiência ainda mais prazerosa. Compreendi tudo que foi abordado sobre Estados e Imutabilidade. Também aprendi coisas novas. Fiz minha primeira integração com uma API - foi empolgante fazer essa conexão. Essa vivência me ajudou a abstrair como tudo se integra em uma aplicação. Trabalhei pela primeira vez com Tailwind CSS - achei a ferramenta incrível e ágil. Além disso, fiz conexão com a comunidade e pude dialogar sobre alguns problemas encontrados no decorrer do desenvolvimento, aprimorando meu senso de comunidade e trabalho em equipe.
 </div>
+
+<h3> :memo: Notas </h3>
+
+O projeto ainda precisa de melhorias. A funcionalidade dos botões *Cadastrar novo link* e *Gerenciar convidados* ainda serão implementadas.
 
 
 
