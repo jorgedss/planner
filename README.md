@@ -36,7 +36,7 @@ Este projeto teve grande significado para meu aprendizado. Como estou estudando 
 
 <h3> :memo: Notas </h3>
 
-O projeto não está completo. A funcionalidade dos botões *Cadastrar novo link* e *Gerenciar convidados* ainda será implementada.
+O projeto não está completo. A funcionalidade dos botões *Cadastrar novo link* e *Gerenciar convidados* será implementada.
 
 
 
